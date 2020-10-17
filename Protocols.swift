@@ -1,5 +1,5 @@
 //
-//  ListViewModelType.swift
+//  Protocols.swift
 //  GenericSwiftUI
 //
 //  Created by 0x6c on 10/17/20.
